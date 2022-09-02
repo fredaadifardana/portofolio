@@ -121,7 +121,7 @@ main article {
 #beranda .beranda-img {
   width: 100%;
   height: 100%;
-  background: url(../image/beranda-img.jpg) no-repeat fixed center;
+  background: var(--primary-color) url(../image/beranda-img.jpg) no-repeat fixed center;
   background-size: cover;
   position: absolute;
   z-index: -9999;
@@ -211,7 +211,7 @@ main article {
 }
 
 #sejarah .sejarah-img {
-  background: url(../image/sejarah-img.jpg) no-repeat 50% 70%;
+  background: var(--primary-color) url(../image/sejarah-img.jpg) no-repeat 50% 70%;
   background-size: cover;
   width: calc(100% - 40px);
   height: calc(100% - 40px);
@@ -235,10 +235,9 @@ main article {
 #geografis .geografis-img {
   width: calc(100% - 40px);
   height: calc(100% - 40px);
-  background: url(../image/geografis-img.jpg) no-repeat center;
+  background: var(--primary-color) url(../image/geografis-img.jpg) no-repeat center;
   background-size: cover;
   border-radius: 10px;
-  background-color: aquamarine;
   box-shadow: -15px 15px var(--primary-color);
   overflow: hidden;
   position: relative;
@@ -719,12 +718,6 @@ footer p {
   #wisata h2 {
     font-size: 32px;
   }
-/* 
-  #sejarah p,
-  #geografis p,
-  .container-profile .deskripsi {
-    font-size: 14px;
-  } */
 
   /* wisata */
   #wisata .wrapp-wisata {
