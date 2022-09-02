@@ -123,11 +123,11 @@ window.addEventListener("scroll", function () {
       imgGeografis.classList.add("active");
     }
   } else {
-    if (contentGeografis + 315 < screenGeografis) {
+    if (contentGeografis + 335 < screenGeografis) {
       imgGeografis.classList.add("active");
     }
 
-    if (contentGeografis + 850 < screenGeografis) {
+    if (contentGeografis + 880 < screenGeografis) {
       h2Geografis.classList.add("active");
       p1Geografis.classList.add("active");
     }
@@ -152,11 +152,11 @@ window.addEventListener("scroll", function () {
       containerWisata.classList.add("active");
     }
   } else {
-    if (contentWisata + 920 < screenWisata) {
+    if (contentWisata + 950 < screenWisata) {
       h2Wisata.classList.add("active");
     }
 
-    if (contentWisata + 1000 < screenWisata) {
+    if (contentWisata + 1030 < screenWisata) {
       containerWisata.classList.add("active");
     }
   }
@@ -202,19 +202,19 @@ window.addEventListener("scroll", function () {
       sosialMedia.classList.add("active");
     }
   } else {
-    if (contentAside + 2405 < screenAside) {
+    if (contentAside + 2435 < screenAside) {
       h2Aside.classList.add("active");
     }
 
-    if (contentAside + 2581 < screenAside) {
+    if (contentAside + 2611 < screenAside) {
       figureAside.classList.add("active");
     }
 
-    if (contentAside + 3100 < screenAside) {
+    if (contentAside + 3130 < screenAside) {
       deskripsiAside.classList.add("active");
     }
 
-    if (contentAside + 3340 < screenAside) {
+    if (contentAside + 3370 < screenAside) {
       sosialMedia.classList.add("active");
     }
   }
