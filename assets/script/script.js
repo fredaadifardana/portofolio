@@ -214,7 +214,7 @@ window.addEventListener("scroll", function () {
       deskripsiAside.classList.add("active");
     }
 
-    if (contentAside + 3420 < screenAside) {
+    if (contentAside + 3470 < screenAside) {
       sosialMedia.classList.add("active");
     }
   }
