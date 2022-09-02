@@ -540,6 +540,7 @@ footer p {
   }
 
   #geografis p {
+    text-align: left;
     transition: 0.8s ease-in 0.2s;
   }
 
