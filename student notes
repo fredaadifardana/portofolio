@@ -1,0 +1,11 @@
+Halo Kak, saya bahagia sekali mengikuti kelas ini, disini saya bisa menuangkan ide dan kreatifitas. Saya merupakan orang yang selalu ingin mencoba hal baru, contohnya dipenggunaan JavaScript serta tampilan dalam website yang saya buat ini.
+
+Fitur menggunakan JavaScript :
+1. Menambahkan class baru secara otomatis pada navigasi sesuai menu yang dipilih dan jika beralih ke menu yang lain maka class tersebut otomatis terhapus (fitur bisa berfungsi ketika menggeser(scroll) halaman browser dan ketika memilih menu pada navigasi)
+2. Menampilkan toggle secara otomatis ketika lebar browser kurang dari 600
+3. Menampilkan navigasi ketika icon toggle di klik dan akan menutup ketika mengeklik menu yang diinginkan atau ketika mengeklik kembali icon toggle
+4. Menambahkan class baru untuk disable efek hover ketika lebar layar kurang dari 900 pada halaman wisata
+5. Menambahkan class baru secara otomatis di setiap elemen ketika menggeser(scroll) untuk menampilkan elemen agar website menjadi lebih menarik
+
+Beberapa fitur saya buat dengan memahami project maupun tutorial dari orang lain, lalu memodifikasinya.
+Itu saja yang dapat saya sampikan, mohon maaf jika ada salah dalam penulisan kode dan kata-kata saya, terima kasih.

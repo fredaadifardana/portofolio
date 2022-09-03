@@ -111,8 +111,6 @@ let geografis = document.getElementById("geografis");
 window.addEventListener("scroll", function () {
   const contentGeografis = geografis.getBoundingClientRect().top;
   let screenGeografis = window.scrollY;
-  // console.log("Content = " + contentGeografis);
-  // console.log("Screen = " + screenGeografis);
   let h2Geografis = document.querySelector(".h2-geografis");
   let p1Geografis = document.querySelector(".p1-geografis");
   let imgGeografis = document.querySelector(".geografis-img");
@@ -139,8 +137,6 @@ let wisata = document.getElementById("wisata");
 window.addEventListener("scroll", function () {
   const contentWisata = wisata.getBoundingClientRect().top;
   let screenWisata = window.scrollY;
-  // console.log("Content = " + contentWisata);
-  // console.log("Screen = " + screenWisata);
   let h2Wisata = document.querySelector(".h2-wisata");
   let containerWisata = document.querySelector(".container-wisata");
   if (width > 768) {
@@ -168,8 +164,6 @@ window.addEventListener("scroll", function () {
   const contentAside = aside.getBoundingClientRect().top;
   let y = contentAside + 1650;
   let screenAside = window.scrollY;
-  console.log("Content = " + contentAside);
-  console.log("Screen = " + screenAside);
   let h2Aside = document.querySelector(".h2-aside");
   let containerProfile = document.querySelector(".container-profile");
   let figureAside = document.querySelector(".figure-aside");
